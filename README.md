@@ -4,14 +4,14 @@ Este repositorio contiene la solución completa para el Caso Integrador de la Pr
 
 El proyecto ha sido desarrollado bajo la modalidad **"Opción B (Avanzada)"**, entregando un despliegue contenerizado con Docker que no requiere configuración de entorno local.
 
-## 👥 Integrantes del Equipo
+## Integrantes del Equipo
 * **[Hernandez Velazquez Luis Alberto]** 
 * **[Maravilla Ipolito Cristopher Esteban]** 
 * **Grupo:** [3BV1]
 
 ---
 
-## 📘 Descripción del Dominio
+## Descripción del Dominio
 El sistema modela el flujo de negocio de un E-Commerce, gestionando:
 1.  **Inventario:** Productos clasificados por categorías con control de stock.
 2.  **Ventas:** Procesamiento de órdenes de compra, detalles de productos y cálculo de totales.
@@ -21,7 +21,7 @@ El sistema modela el flujo de negocio de un E-Commerce, gestionando:
 
 ---
 
-## 📊 Modelo de Datos (Diagrama EER)
+## Modelo de Datos (Diagrama EER)
 El esquema relacional consta de **8 tablas** normalizadas.
 
 ![Diagrama Entidad-Relación](./Diagrama.png)
@@ -37,5 +37,5 @@ Este proyecto utiliza **Docker Compose** para orquestar la base de datos y la ap
 ### Pasos para el Despliegue
 1. **Clonar el repositorio:**
    ```bash
-   git clone [URL_DE_TU_REPOSITORIO]
-   cd [NOMBRE_DE_LA_CARPETA]
+   git clone https://github.com/LuisHV935/Practica-6---Base-De-Datos
+
