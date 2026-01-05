@@ -38,4 +38,7 @@ Este proyecto utiliza **Docker Compose** para orquestar la base de datos y la ap
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/LuisHV935/Practica-6---Base-De-Datos
+2. **Levantar el contenedor:**
+    ```bash
+    docker-compose up --build
 
