@@ -5,9 +5,9 @@ Este repositorio contiene la solución completa para el Caso Integrador de la Pr
 El proyecto ha sido desarrollado bajo la modalidad **"Opción B (Avanzada)"**, entregando un despliegue contenerizado con Docker que no requiere configuración de entorno local.
 
 ## Integrantes del Equipo
-* **[Hernandez Velazquez Luis Alberto]** 
-* **[Maravilla Ipolito Cristopher Esteban]** 
-* **Grupo:** [3BV1]
+* **Hernandez Velazquez Luis Alberto** 
+* **Maravilla Ipolito Cristopher Esteban** 
+* **Grupo:** 3BV1
 
 ---
 
